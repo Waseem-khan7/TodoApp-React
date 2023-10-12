@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Waseem-khan7/TodoApp-React.git/static/css/main.01b30934.css",
+    "main.js": "/Waseem-khan7/TodoApp-React.git/static/js/main.af4ab16f.js",
+    "index.html": "/Waseem-khan7/TodoApp-React.git/index.html",
+    "main.01b30934.css.map": "/Waseem-khan7/TodoApp-React.git/static/css/main.01b30934.css.map",
+    "main.af4ab16f.js.map": "/Waseem-khan7/TodoApp-React.git/static/js/main.af4ab16f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01b30934.css",
+    "static/js/main.af4ab16f.js"
+  ]
+}
